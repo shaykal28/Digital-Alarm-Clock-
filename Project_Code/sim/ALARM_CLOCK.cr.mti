@@ -1,0 +1,99 @@
+F:/Maven_Training/Verilog/Projects/Alarm_clock/tb/tb_aclk_timegen.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Projects/Alarm_clock/tb/tb_aclk_timegen.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_aclk_timegen
+
+Top level modules:
+	tb_aclk_timegen
+
+} {} {}} F:/Maven_Training/Verilog/Projects/Alarm_clock/rtl/lcd_driver.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Projects/Alarm_clock/rtl/lcd_driver.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lcd_driver
+
+Top level modules:
+	lcd_driver
+
+} {} {}} F:/Maven_Training/Verilog/Projects/Alarm_clock/rtl/fsm.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Projects/Alarm_clock/rtl/fsm.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fsm
+
+Top level modules:
+	fsm
+
+} {} {}} F:/Maven_Training/Verilog/Projects/Alarm_clock/rtl/keyreg.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Projects/Alarm_clock/rtl/keyreg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module keyreg
+
+Top level modules:
+	keyreg
+
+} {} {}} F:/Maven_Training/Verilog/Projects/Alarm_clock/tb/tb_lcd_driver.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Projects/Alarm_clock/tb/tb_lcd_driver.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_lcd_driver
+
+Top level modules:
+	tb_lcd_driver
+
+} {} {}} F:/Maven_Training/Verilog/Projects/Alarm_clock/tb/tb_keyreg.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Projects/Alarm_clock/tb/tb_keyreg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_keyreg
+
+Top level modules:
+	tb_keyreg
+
+} {} {}} F:/Maven_Training/Verilog/Projects/Alarm_clock/tb/tb_alarm_clock.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Projects/Alarm_clock/tb/tb_alarm_clock.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_alarm_clock
+
+Top level modules:
+	tb_alarm_clock
+
+} {} {}} F:/Maven_Training/Verilog/Projects/Alarm_clock/tb/tb_alarm_reg.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Projects/Alarm_clock/tb/tb_alarm_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_alarm_reg
+
+Top level modules:
+	tb_alarm_reg
+
+} {} {}} F:/Maven_Training/Verilog/Projects/Alarm_clock/tb/tb_fsm.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Projects/Alarm_clock/tb/tb_fsm.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_fsm
+
+Top level modules:
+	tb_fsm
+
+} {} {}} F:/Maven_Training/Verilog/Projects/Alarm_clock/rtl/lcd_driver_4.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Projects/Alarm_clock/rtl/lcd_driver_4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lcd_driver_4
+
+Top level modules:
+	lcd_driver_4
+
+} {} {}} F:/Maven_Training/Verilog/Projects/Alarm_clock/tb/tb_counter.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Projects/Alarm_clock/tb/tb_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_counter
+
+Top level modules:
+	tb_counter
+
+} {} {}} F:/Maven_Training/Verilog/Projects/Alarm_clock/rtl/alarm_reg.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Projects/Alarm_clock/rtl/alarm_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alarm_reg
+
+Top level modules:
+	alarm_reg
+
+} {} {}} F:/Maven_Training/Verilog/Projects/Alarm_clock/rtl/alarm_clock_top.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Projects/Alarm_clock/rtl/alarm_clock_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alarm_clock_top
+
+Top level modules:
+	alarm_clock_top
+
+} {} {}} F:/Maven_Training/Verilog/Projects/Alarm_clock/rtl/aclk_timegen.v {1 {vlog -work work -stats=none F:/Maven_Training/Verilog/Projects/Alarm_clock/rtl/aclk_timegen.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module aclk_timegen
+
+Top level modules:
+	aclk_timegen
+
+} {} {}}
